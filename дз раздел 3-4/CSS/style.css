@@ -1,0 +1,493 @@
+body{
+    font-family: Arial, sans-serif;
+}
+nav {
+    width: 100%;
+    height: 60px;
+    background: #344051
+}
+.logo{
+    color: #fff;
+    font-size: 28px;
+    line-height: 60px;
+    padding-left: 288px;
+    float: left
+}
+.menu {
+    float: left;
+    padding-left: 470px;        
+}
+.menu li{
+    float:left;
+    line-height: 60px;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+    
+}
+.main{
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/boy.png) 90% 100%/auto 85% no-repeat, url(../img/back.jpg) center/cover no-repeat;
+
+}
+.title_container {
+    float:left;
+    margin: 432px 0px 0px 432px;
+    color: #2C384A;
+    text-align: center;
+    
+}
+.title_container h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+.title_container h4 {
+    margin: 40px;
+    font-size: 22px;
+    color: #79818D;
+}
+.title_container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6D7682;
+    background: none;
+    border-radius: 5px;
+    color: #6D7682;
+    font-size: 12px;
+    padding: 0px 16px;
+    margin: 50px 14px 0px 14px
+}
+.aboutme{
+  
+
+
+
+
+}
+.aboutme_inside{
+    width: 740px;
+    margin: 0 auto;
+}
+.aboutme_inside h2{
+    color: #263244;
+    font-size: 34px;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 50px;
+    padding-bottom: 70px;
+    margin-left: 270px;
+}
+.aboutme img{
+    display: block;
+margin-left: 240px;
+    padding-bottom: 50px;
+    
+}
+.aboutme p{
+    color: #3F495A;
+    font:  'Calibri';
+    font-size: 17px;
+    text-align: left;
+    margin-left: 70px;
+    margin-right: auto;
+
+
+}
+.aboutme_inside input {
+    color: #6F707E;
+    font-size: 17px;
+    border: 2px solid #6F707E;
+    border-radius: 5px;
+    background: url(../img/icon.png) left/auto 60% no-repeat;
+    margin-left: 240px;
+    margin-top: 40px;
+    padding: 10px 10px 10px 30px;
+    margin-bottom: 100px;
+
+}
+.about_my_skill_inside{
+    height:  550px;
+    background: url(../img/skill.jpg)  center/cover no-repeat;
+}
+.about_my_skill_inside h2{
+    font-size: 34px;
+    color: #263244;
+    font: 'Franklin Gothic Medium';
+    text-transform: uppercase;
+    float: left;
+    margin-left: 800px;
+    padding-top: 101px;
+    
+}
+.deep_inside_skill{
+    float: left;
+    width: 100%;
+    margin-top: 100px;
+        
+}
+
+.deep_inside_skill  h4 {
+
+    font-size: 19px;
+    color: #CF7600;
+    font: 'Bahnschrift';
+    padding-bottom: 30px;
+
+}
+.deep_inside_skill p {
+    width: 216px;
+    height: 65px;
+    font: 'Calibri';
+}
+.deep_inside_skill img {
+    width: 55px;
+    height: 37px;
+   margin-bottom:  30px;
+}
+
+.skill1 {
+    margin-left: 200px;
+    float: left;
+    
+}
+.skill2 {
+    margin-left: 200px;
+    float: left;
+}
+.skill3 {
+    margin-left: 200px;
+   float: left;
+}
+.skill4 {
+    margin-left: 200px;
+    float: left;
+}
+.cases {
+    float:left;
+}
+.cases h2{
+    font-size: 34px;
+    font: 'Franklin Gothic Medium';
+    margin-top: 101px;
+    margin-left: 850px;
+    margin-bottom: 87px;
+}
+.case_part1 p{
+    font: 'Calibri';
+    font-size: 17px;
+    margin-left:500px;
+    margin-bottom: 38px;
+}
+.case_part1 img{
+    margin-left: 388px;
+}
+.case_inside h3{
+    font: 'Franklin Gothic Medium';
+    font-size: 25px;
+    margin-top: 8px;
+    color: #384354;
+}
+.case_inside p, {
+    font: 'Calibri';
+    font-size: 17px;
+    margin-top: 8px;
+    margin-bottom: 30px;
+}
+.case_inside a {
+    font: 'Franklin Gothic Medium';
+    font-size: 21px;
+    margin-top: 100px;
+    background: #63B5AE;
+    padding: 11px 43px 12px 43px;
+    border-radius: 5px;
+    color: white;
+    text-transform: uppercase;
+}
+.case_inside{
+    float: left;
+    margin-left: 388px;
+    margin-top: 39px;
+    display: block;
+    height: auto;
+}
+.case_inside2{
+    float: left;
+    display: block;
+    width: 700px;
+    margin-right: 100px;
+    width: 700px;
+    margin-left: 99px;
+    margin-top: 39px;
+    
+}
+.case_inside2 h4{
+    font: 'Franklin Gothic Medium';
+    font-size: 25px;
+    margin-bottom: 8px;
+    color: #384354;
+}
+.case_inside p {
+    font: 'Calibri';
+    font-size: 21px;
+}
+.web p{
+   
+}
+.web a{
+    display: block;
+    margin-top: 15px;
+}
+.form {
+    float: left;
+    height: 800px;
+    margin-bottom: 200px;
+}
+.form h2{
+    font: 'Franklin Gothic Medium';
+    font-size: 46px;
+    margin-left: 800px;
+    margin-top: 200px;
+}
+.form h3{
+    font:'Franklin Gothic Medium';
+    font-size: 29px;
+    margin-left: 517px;
+    margin-top: 60px;
+    margin-bottom: 22px;
+}
+.form label{
+    background: #EEEEEE;
+    width: 857px;
+    height: 57px;
+}
+select{
+    margin-left: 517px;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 17px;
+    padding: 19px 700px 19px 24px;
+    color: #737373;
+    background: #EEEEEE;
+    width: 891px;
+}
+td {
+    font-size: 25px;
+    font: 'Franklin Gothic Medium';
+    font-weight: bold;
+    color: #1C2534;
+    padding-top: 10px;
+    
+}
+table {
+    margin-top: 53px;
+    display: block;
+    border-spacing: 600px 0;
+}
+.statistics {
+    float: left;
+    background: url('../img/backstat.jpg');
+    width: 100%;
+    
+    height: 499px;
+}
+.statistics h2{
+    font:'Franklin Gothic Medium';
+    font-size: 34px;
+    color: #323E4F;
+    text-transform: uppercase;
+    margin-top: 100px;
+    margin-left: 700px;
+    font-weight: 700;
+    margin-bottom: 99px;
+}
+.statistics h4{
+    font:'Impact';
+    font-size: 37.5px;
+    color: #323E4F;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 32px;
+}
+.statistics p{
+    font:'Franklin Gothic Medium';
+    font-size: 17px;
+    color: #323E4F;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.statistics img{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 32px;
+}
+.stat_inside{
+    float:left;
+    width: 100%;
+}
+.stat1{
+    display: block;
+    margin-left: 480px;
+    width: 107px;
+    float: left;
+}
+.stat2{
+    margin-left: 230px;
+    display: block;
+    float: left;
+}
+.stat3{
+    margin-left: 200px;
+    display: block;
+    float: left;
+}
+.stat4{
+    margin-left: 130px;
+    display: block;
+    float: left;
+}
+.feedback{
+    float: left;
+    width: 100%;
+    
+}
+.feedback h2{
+    font:'Franklin Gothic Medium';
+    font-size: 34px;
+    margin-left: 800px;
+    margin-top: 100px;
+    color: #243042;
+    text-transform: uppercase;
+    font-weight: 700;
+    
+}
+.feedback p{
+    text-align: center;
+    margin-top: 48px;
+    margin-bottom: 100px;
+    
+}
+.feedback img{
+    margin-left: 830px;
+    margin-top: 79px;
+}
+footer{
+    float: left;
+    background: url(../img/back3.jpg) center/cover no-repeat;
+    width: 100%;
+    
+}
+.bottom h2{
+    font:'Franklin Gothic Medium';
+    font-size: 34px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 400;
+    margin-top: 100px;
+    margin-left: 800px;
+}
+.bottom img{
+    margin-bottom: 10px;
+}
+.bottom h6{
+    color: white;
+    font:'Calibri';
+    font-size: 17px;
+    margin-top: 70px;
+    margin-left: 580px;
+    margin-bottom: 36px;
+}
+.bottom h3{
+    font: 'Franklin Gothic Medium';
+    color: white;
+    font-size: 22px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 150px;
+}
+.fot1{
+    margin-bottom: 60px;
+    float: left;
+    margin-left: 600px;
+    font: 'Calibri';
+    font-size: 17px;
+    color: white;
+}
+.fot2{
+    argin-bottom: 60px;
+    float: left;
+    margin-left: 72px;
+    font: 'Calibri';
+    font-size: 17px;
+    color: white;
+}
+.fot3{
+    argin-bottom: 60px;
+    float: left;
+    margin-left: 83px;
+    font: 'Calibri';
+    font-size: 17px;
+    color: white;
+}
+iframe{
+    float: left;
+    width: 100%;
+}
+
+
+.action_in{
+    display: block;
+    padding-left: 550px;
+    margin-top: 30px;
+   
+}
+.action_in input{
+    display: block;
+    float: left;
+    margin-left: 30px;
+    font:'Franklin Gothic Medium';
+    font-size: 17px;
+    color: #5D5D5E;
+    background: rgba(238, 238, 238, 0.85);
+    width: 352px;
+    height: 34px;    
+    padding: 7px 300px 7px 12px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    display: block;
+    margin-top:20px;
+    background: rgba(238, 238, 238, 0.85);
+    font:'Franklin Gothic Medium';
+    font-size: 17px;
+    color: #5D5D5E;
+    width: 732px;
+    height: 94ps;
+    margin-left: 580px;
+}
+.action_in2 input{
+    font:'Franklin Gothic Medium';
+    font-size: 21px;
+    color: white;
+    border: 2px solid #F9FAFF;
+    border-radius: 5px;
+    background: rgb(0,0,0,1.00);
+    margin-bottom: 150px;
+    margin-left: 830px;
+    margin-top: 30px;
+}
+.btt {
+    height: 90px;
+    width:100%;
+    float: left;
+    background: url('../img/low.jpg');
+}
+.btt p{
+    font: 'ArialMT';
+    font-weight: 500;
+    font-size: 13px;
+    margin-left: 800px;
+    color: white;
+    margin-top: 40px;
+}
